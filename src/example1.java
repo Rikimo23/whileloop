@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class example1 {
-    public static void main(String[] args) {
+    public static void example1(String[] args) {
         // Generate a random number to be guessed
         int number = (int) (Math.random() * 101);
         Scanner input = new Scanner(System.in);
